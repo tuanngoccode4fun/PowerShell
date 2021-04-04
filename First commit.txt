@@ -1,0 +1,2 @@
+Hello World
+You can use : Powershell Console or Powershell ISE
