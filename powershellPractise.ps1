@@ -1,3 +1,1 @@
-﻿<#Get-Process
-Get-Service#>
-Write-Host "Hello"
+﻿help Get-ChildItem -Online
