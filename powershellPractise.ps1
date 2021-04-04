@@ -1,4 +1,2 @@
-﻿Get-Help sort -Online
-Get-ChildItem -Path C:\Test | Sort-Object
-$files | sort -Property  Name
+﻿Get-ChildItem|where Name -Like "zh*"
 
