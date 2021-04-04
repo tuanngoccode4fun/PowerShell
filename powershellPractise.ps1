@@ -1,2 +1,2 @@
-﻿Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
-
+﻿
+$PSVersionTable
