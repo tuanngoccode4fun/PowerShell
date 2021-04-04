@@ -1,4 +1,4 @@
-﻿$files = dir
-$files.Count 
-$files[0].FullName
-$files[0].Name
+﻿Get-Help sort -Online
+Get-ChildItem -Path C:\Test | Sort-Object
+$files | sort -Property  Name
+
