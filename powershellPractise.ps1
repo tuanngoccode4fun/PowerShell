@@ -1,2 +1,2 @@
 ﻿
-$PSVersionTable
+dir|Get-Member
