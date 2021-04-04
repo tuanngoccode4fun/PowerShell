@@ -1,6 +1,7 @@
-﻿$b = "Nguyen Tuan Ngoc"
-$b
-$c= $b.Substring(0,6)
+﻿$b = "Ngoc"
+$c = "Nguyen Tuan $b"
+$c
+$c = "Nguyen Tuan $b " +$b
 $c
 
 
