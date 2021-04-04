@@ -1,2 +1,2 @@
 ﻿
-dir|Get-Member
+cls
