@@ -1,2 +1,1 @@
-﻿Get-ChildItem|where Name -Like "zh*"
-
+﻿$files | where {($_.Length -gt 0) -and ($_.Name -like "zh*")}
